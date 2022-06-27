@@ -1,6 +1,8 @@
 import * as React from "react";
 import { StyleProp, ViewStyle, ViewProps } from "react-native";
 
+export { TextOverlay } from "./src/TextOverlay";
+
 type ImageType = "png" | "jpg";
 
 type Size = {
